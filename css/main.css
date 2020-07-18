@@ -184,7 +184,7 @@ p {
   left: 20px;
 } */
 .hero-home {
-  background-image: url(images/shark.jpg);
+  background-image: url(./images/shark.jpg);
   background-position: center top;
 }
 .hero-content {
